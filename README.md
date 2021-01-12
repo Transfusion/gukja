@@ -2,7 +2,7 @@
 
 ## Structure
 
-```json
+```
 {
     "char": The character itself, string
     "eumhun": The phono-semantic reading(s), [string], OPTIONAL
