@@ -1,0 +1,19 @@
+{
+  "name": "gukja-list-test",
+  "version": "1.0.0",
+  "description": "Validate and sanity check the Gukja list at https://github.com/Transfusion/gukja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Transfusion/gukja.git"
+  },
+  "author": "Bryan Kok",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Transfusion/gukja/issues"
+  },
+  "homepage": "https://github.com/Transfusion/gukja#readme"
+}
