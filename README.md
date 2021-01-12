@@ -7,7 +7,7 @@
     "char": The character itself, string
     "eumhun": The phono-semantic reading(s), [string], OPTIONAL
     "strk": Stroke count, number
-    "cp": Unicode code point, string
+    "cp": Unicode code point in uppercase hex, string
     "variant": The more commonly used 異體字, if one exists, e.g. 擊 for 㐿, string, OPTIONAL
 }
 ```
