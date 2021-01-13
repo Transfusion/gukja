@@ -358,6 +358,205 @@
       "char": "𦬠",
       "strk": 4,
       "cp": "U+26B20"
+    },
+    {
+      "char": "㥘",
+      "eumhun": ["겁낼 겁"],
+      "strk": 11,
+      "cp": "U+3958",
+      "variant": "怯"
+    },
+    {
+      "char": "㐿",
+      "eumhun": ["칠 격"],
+      "strk": 6,
+      "cp": "U+343F",
+      "variant": "擊"
+    },
+    {
+      "char": "䓀",
+      "eumhun": ["도라지 길"],
+      "strk": 12,
+      "cp": "U+44C0",
+      "variant": "桔"
+    },
+    {
+      "char": "坍",
+      "eumhun": ["무너질 담", "무너질 단", "단 단"],
+      "strk": 7,
+      "cp": "U+574D",
+      "variant": "壇"
+    },
+    {
+      "char": "㢱",
+      "eumhun": ["구결자 며"],
+      "strk": 8,
+      "cp": "U+38B1",
+      "variant": "旀"
+    },
+    {
+      "char": "㒱",
+      "eumhun": ["꿈 몽"],
+      "strk": 5,
+      "cp": "U+34B1",
+      "variant": "夢"
+    },
+    {
+      "char": "㫆",
+      "eumhun": ["하며 며", "두루 미", "미 미"],
+      "strk": 9,
+      "cp": "U+3AC6",
+      "variant": "彌"
+    },
+    {
+      "char": "敀",
+      "eumhun": ["핍박할 박", "돌아갈 귀", "귀 귀"],
+      "strk": 9,
+      "cp": "U+6540",
+      "variant": "歸"
+    },
+    {
+      "char": "覄",
+      "eumhun": ["다시 복", "덮을 부"],
+      "strk": 12,
+      "cp": "U+8984",
+      "variant": "覆"
+    },
+    {
+      "char": "㫭",
+      "eumhun": ["때 시"],
+      "strk": 10,
+      "cp": "U+3AED",
+      "variant": "時"
+    },
+    {
+      "char": "伩",
+      "eumhun": ["믿을 신", "선비 유", "유 유"],
+      "strk": 6,
+      "cp": "U+4F29",
+      "variant": "儒"
+    },
+    {
+      "char": "曺",
+      "eumhun": ["성씨 조", "무리 조"],
+      "strk": 10,
+      "cp": "U+66FA",
+      "variant": "曹"
+    },
+    {
+      "char": "㓒",
+      "eumhun": ["옻 칠", "일곱 칠", "삼갈 철"],
+      "strk": 10,
+      "cp": "U+34D2",
+      "variant": "漆"
+    },
+    {
+      "char": "夻",
+      "eumhun": ["대구 화"],
+      "strk": 6,
+      "cp": "U+593B",
+      "variant": "㕦"
+    },
+    {
+      "char": "湏",
+      "eumhun": ["흐물흐물할 회", "모름지기 수", "수염 수"],
+      "strk": 12,
+      "cp": "U+6E4F",
+      "variant": "須"
+    },
+    {
+      "char": "𠤷",
+      "eumhun": ["주전자 이"],
+      "strk": 7,
+      "cp": "U+20937",
+      "variant": "匜"
+    },
+    {
+      "char": "𠫡",
+      "strk": 6,
+      "cp": "U+20AE1"
+    },
+    {
+      "char": "𠸌",
+      "eumhun": ["닭 달"],
+      "strk": 12,
+      "cp": "U+20E0C"
+    },
+    {
+      "char": "𠾑",
+      "eumhun": ["재갈 함"],
+      "strk": 15,
+      "cp": "U+20F91",
+      "variant": "銜"
+    },
+    {
+      "char": "𡆬",
+      "eumhun": ["인할 인"],
+      "strk": 6,
+      "cp": "U+211AC",
+      "variant": "因"
+    },
+    {
+      "char": "𣃥",
+      "eumhun": ["하며 며", "두루 미", "미 미"],
+      "strk": 9,
+      "cp": "U+230E5",
+      "variant": "彌"
+    },
+    {
+      "char": "𣯚",
+      "eumhun": ["담요 탑"],
+      "strk": 14,
+      "cp": "U+23BDA",
+      "variant": "𣯈"
+    },
+    {
+      "char": "𤆛",
+      "eumhun": ["더불 여", "줄 여"],
+      "strk": 7,
+      "cp": "U+2419B",
+      "variant": "與"
+    },
+    {
+      "char": "𤱢",
+      "eumhun": ["대모 대"],
+      "strk": 10,
+      "cp": "U+24C62",
+      "variant": "玳"
+    },
+    {
+      "char": "𥷑",
+      "eumhun": ["피리 필"],
+      "strk": 22,
+      "cp": "U+25DD1",
+      "variant": "觱"
+    },
+    {
+      "char": "𧿬",
+      "eumhun": ["쭈그릴 준"],
+      "strk": 11,
+      "cp": "U+27FEC",
+      "variant": "蹲"
+    },
+    {
+      "char": "𨋀",
+      "eumhun": ["굴대 축"],
+      "strk": 11,
+      "cp": "U+282C0",
+      "variant": "軸"
+    },
+    {
+      "char": "𨒷",
+      "eumhun": ["바람 풍"],
+      "strk": 9,
+      "cp": "U+284B7",
+      "variant": "風"
+    }
+  ],
+  "unencoded": [
+    {
+      "ids": "⿱爲卩",
+      "variant": "爲"
     }
   ]
 }

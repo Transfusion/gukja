@@ -28,4 +28,11 @@ describe("Gukja Test Suite", () => {
       expect(calculatedCp).toEqual(cp);
     }
   });
+
+  it("Non-optional fields are all included", () => {
+    for (let charInfo of chars) {
+      const { cp, char, strk } = charInfo;
+      expect(!!cp && !!char && !!strk).toEqual(true);
+    }
+  });
 });
